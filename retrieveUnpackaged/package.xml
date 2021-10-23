@@ -9,6 +9,10 @@
         <name>CustomApplication</name>
     </types>
     <types>
+        <members>DevopsApps</members>
+        <name>AppMenu</name>
+    </types>
+    <types>
         <members>Account.Amount__c</members>
         <members>DevopsObject__c.DevopsCity__c</members>
         <members>DevopsObject__c.DevopsFieldName__c</members>
